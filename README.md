@@ -1,3 +1,6 @@
+
+![Black and Green Bold Illustrative Environmental Sustainability Infographics (36 x 24 in)](https://github.com/user-attachments/assets/8827af34-a548-45f7-9bab-85bde2b0e08a)
+
 Problem Space: 
 The project is focused on developing an image classification system to identify and categorize fruits and vegetables, aiming to streamline the supermarket checkout process by eliminating the need for barcode scanning. Traditional barcode scanning requires stickers that are not only cumbersome to remove but also contribute to microplastic pollution due to their plastic composition. The project seeks to enhance checkout efficiency, reduce waste, and offer a more environmentally friendly alternative to conventional methods by implementing a system that can recognize produce items through visual inputs.
 
